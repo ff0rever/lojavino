@@ -1,2 +1,2 @@
 # lojavino
-Database academic project using MySQL.
+Winery Database - academic project using MySQL.
