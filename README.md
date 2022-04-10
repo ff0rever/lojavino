@@ -1,2 +1,2 @@
 # lojavino
-Database academic project using SQL
+Database academic project using MySQL.
